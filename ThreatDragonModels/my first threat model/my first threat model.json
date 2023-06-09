@@ -1,0 +1,16 @@
+{
+  "version": "2.0.3",
+  "summary": {
+    "title": "my first threat model",
+    "owner": "milap",
+    "description": "1234",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "123",
+    "threatTop": 0
+  }
+}
